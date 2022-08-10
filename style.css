@@ -9,17 +9,17 @@ h1 {
     font-size: 3em;
     letter-spacing: .6em;
     padding-top: 1em;
-    padding-bottom: 1em;
+    padding-bottom: 0.5em;
 }
 
 h2 {
     font-size: 1.5em;
-    padding-bottom: 1em;
+    padding-bottom: 0.5em;
 }
 
 h3 {
     font-size: 1em;
-    padding-bottom: 1em;
+    padding-bottom: 0.5em;
 }
 
 main {
@@ -30,11 +30,11 @@ main {
 
 header {
     text-align: center;
-    margin: auto 2em;
+    margin: auto 1em;
 }
 
 section {
-    margin: auto 1em 4em 2em;
+    margin: auto 1em 1em 1em;
 }
 
 i {
